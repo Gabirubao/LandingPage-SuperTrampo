@@ -1,4 +1,4 @@
 
 function onClick(){
-    window.location.href="form.html";
+    window.location.href="https://www.instagram.com/supertrampobc24/";
 }
